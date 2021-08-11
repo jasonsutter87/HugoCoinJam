@@ -9,7 +9,7 @@ coin: "Bitcoin"
 
 this is the first post.
 
-{{ coin }}
+{{ .Params.coin }}
 
 - pizza
 - tacos

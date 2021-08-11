@@ -3,4 +3,4 @@ HUGO_VERSION = "0.87.0"
 
 
 [build]
-command = “CI= npm run build”
+command = "CI= npm run build"
